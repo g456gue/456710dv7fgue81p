@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @456710dv7fgue81p (456gue)
 - 👀 I’m interested in ya mama
 - 🌱 I’m currently learning C#, C++, Lua...
-- 📫 How to reach me 
+- 📫 How to reach me : 
 - ⚡ Fun fact: I dont know what Im doing
 
 <!---
